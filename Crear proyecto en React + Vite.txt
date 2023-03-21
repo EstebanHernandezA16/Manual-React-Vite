@@ -1,0 +1,14 @@
+Para crear un proyecto en React se necesita
+Instalar node.js (https://nodejs.org/en)
+Instalar npm por medio de consola en vscode (npm install -g npm)
+Instalar react y react dom por medio de consola (npm install react react-dom)
+
+
+Ahora, hora de crear el proyecto
+1*Crear el directorio con vscode (mkdir CarpetaCreada)
+2*Acceder con el comando cd(cd CarpetaCreada)
+3*Abrir el code con la consola usando code . -r
+4*Ingresar comando npm create vite@latest
+5*Acceder con el nombre del proyecto usando cd (cd NombreProyecto)
+6* Instalar vite con react usando npm install
+7*Ejecutar npm run dev para inicializar el servidor
