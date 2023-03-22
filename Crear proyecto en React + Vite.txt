@@ -10,5 +10,5 @@ Ahora, hora de crear el proyecto
 3*Abrir el code con la consola usando code . -r
 4*Ingresar comando npm create vite@latest
 5*Acceder con el nombre del proyecto usando cd (cd NombreProyecto)
-6* Instalar vite con react usando npm install
+6* Instalar el proyecto con react usando npm install
 7*Ejecutar npm run dev para inicializar el servidor
