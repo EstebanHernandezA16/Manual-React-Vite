@@ -1,4 +1,4 @@
-# Manual-React-Vite
+# Manual-React-Vite/React-Native
 Comandos utiles
 
 Para invocar clases 
