@@ -1,0 +1,12 @@
+React Native es una libreria de React, Que a la vez React es una libreria de JavaScript.
+
+React Native sirve para (Usando React) poder crear aplicaciones
+que sirvan para IOs como para android a la vez sin tener que reescribir el codigo.
+
+Para crear una app de react native acceder al terminal de vscode
+npx create-expo-app "NombreProyecto"
+
+cd NombreProyecto
+npx expo start
+
+
